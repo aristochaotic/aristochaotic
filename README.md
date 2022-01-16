@@ -1,4 +1,9 @@
-### Hi there 👋
+# Tyler Wright (She/They)
+- Computer Engineering major/Literature minor at Stevens Institute of Technology graduating May 2022
+- RPA/DevOps @ Merck
+- Passionate about robotics, computer vision, Linux, embedded systems
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aristochaotic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aristochaotic/aristochaotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
