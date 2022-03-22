@@ -3,7 +3,7 @@
 - Fullstack Engineer @ [PiSrc](https://www.pisrc.com/)
 - Passionate about robotics, computer vision, Linux, embedded systems
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aristochaotic&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aristochaotic&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aristochaotic/aristochaotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
