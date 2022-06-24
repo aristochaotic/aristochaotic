@@ -1,5 +1,4 @@
 # Tyler Wright (She/They)
-- Computer Engineering major/Literature minor at Stevens Institute of Technology graduating May 2022
 - Fullstack Engineer @ [PiSrc](https://www.pisrc.com/)
 - Passionate about robotics, computer vision, Linux, embedded systems
 
