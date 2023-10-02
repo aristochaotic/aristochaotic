@@ -1,6 +1,9 @@
-# Tyler Wright (She/They)
-- Fullstack Engineer @ [PiSrc](https://www.pisrc.com/)
-- Passionate about robotics, computer vision, Linux, embedded systems
+{ name:     "Tyler Wright",
+  pronouns: ["She", "They"],
+  email:    "tylerwright31415@gmail.com",
+  company:  "PiSrc",
+  position: "FullStack Software Engineer",
+  location: "NYC" }
 
 <!--a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aristochaotic&show_icons=true&layout=compact&count_private=true&theme=synthwave&include_all_commits=true" />
@@ -8,20 +11,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aristochaotic&show_icons=true&layout=compact&count_private=true&theme=synthwave&include_all_commits=true&langs_count=8" />
 </a>
-
-<!--
-**aristochaotic/aristochaotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aristochaotic&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
