@@ -1,4 +1,4 @@
-### About Me
+## About Me
 - 🙂 Fullstack Software Engineer @ PiSrc
 - 🤖 Passionate about robotics, computer vision, Linux, embedded, systems
 - 🚀 Changing the world through code
