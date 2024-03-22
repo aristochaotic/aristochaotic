@@ -1,5 +1,5 @@
 ## About Me
-- 🙂 Fullstack Software Engineer @ PiSrc
+- 🙂 Fullstack software engineer open to new opportunities!
 - 🤖 Passionate about robotics, computer vision, Linux, embedded, systems
 - 🚀 Changing the world through code
 
